@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="518aa6d7-94a9-4c2e-aebd-c146d855a2e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +34,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../frame" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/doc" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="ServiceViewManager">
@@ -62,17 +63,93 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619342875712</updated>
-      <workItem from="1619342877622" duration="337000" />
+      <workItem from="1619342877622" duration="529000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1619343231409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619343231409</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1619343264800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619343264800</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first">
+      <created>1619343277072</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619343277072</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixup! first">
+      <created>1619343337417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619343337417</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="first" />
+    <MESSAGE value="fixup! first" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup! first" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="4400" y="292" key="CommitChangelistDialog2" timestamp="1619343275938">
+    <state x="4400" y="292" key="CommitChangelistDialog2" timestamp="1619343336708">
       <screen x="1920" y="-828" width="3840" height="2120" />
     </state>
-    <state x="4400" y="292" key="CommitChangelistDialog2/0.0.1920.1040/1920.-828.3840.2120@1920.-828.3840.2120" timestamp="1619343275938" />
+    <state x="4400" y="292" key="CommitChangelistDialog2/0.0.1920.1040/1920.-828.3840.2120@1920.-828.3840.2120" timestamp="1619343336708" />
+    <state x="4380" y="419" key="Vcs.Push.Dialog.v2" timestamp="1619343340815">
+      <screen x="1920" y="-828" width="3840" height="2120" />
+    </state>
+    <state x="4380" y="419" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-828.3840.2120@1920.-828.3840.2120" timestamp="1619343340815" />
   </component>
 </project>
